@@ -1,0 +1,17 @@
+.card {
+    background: whitesmoke;
+    height: 180px;
+    width: 180px;
+    position: relative;
+    text-align: center;
+}
+
+.card>.img-container {
+    height: 100%;
+    text-align: center;
+    background: lightblue;
+}
+
+.card>.img-container>img {
+    width: 100%;
+}
